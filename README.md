@@ -17,19 +17,30 @@ Projeto Link help Squad 49, elaborado para avaliação do curso de Desenvolvedor
 - [x] Envio de doação 
 
 ## 📺Layout
-![interface](https://github.com/reynaldo86/Dio-Api-Restful/assets/80369346/0144875d-c41c-4006-9a87-3c8971861fb9)
+### Login
+![interface](https://github.com/reynaldo86/Projeto-Final-Curso-Recode-Pro/assets/80369346/6b450a00-ad5c-44ca-ae1a-aa6db9ed9440)
+### Home
+![interface](https://github.com/reynaldo86/Projeto-Final-Curso-Recode-Pro/assets/80369346/5718ba67-6191-4c9b-8923-ef386677fc68)
+### Projeto
+![interface](https://github.com/reynaldo86/Projeto-Final-Curso-Recode-Pro/assets/80369346/a3b9560f-d2a0-4ee7-8a08-05374381f268)
+### Cadastro
+![interface](https://github.com/reynaldo86/Projeto-Final-Curso-Recode-Pro/assets/80369346/92db6f4f-fc6d-41f3-846e-ae9ee3bb9037)
+### Pedido
+![interface](https://github.com/reynaldo86/Projeto-Final-Curso-Recode-Pro/assets/80369346/ddfe2a0b-5e0a-4512-a36c-a65d457ac16f)
+### Contato
+![interface](https://github.com/reynaldo86/Projeto-Final-Curso-Recode-Pro/assets/80369346/b8b5381e-53cb-4e8b-b775-3745a4f86782)
 
 ## Demonstração
-[Projeto](https://dio-api-restful-production.up.railway.app/swagger-ui/index.html)
+[Projeto](#)
 
 
 ## 💿Como Rodar este projeto
 ```bash
 # Clone o repositório 
-$ git clone https://github.com/reynaldo86/Dio-Api-Restful.git
+$ git clone https://github.com/reynaldo86/Projeto-Final-Curso-Recode-Pro.git
 
 # Acesse a pasta do projeto
-$ cd Dio-Api-Restful
+$ cd Projeto-Final-Curso-Recode-Pro
 
 # Instale as dependências
 $ mvn clean install
@@ -42,6 +53,7 @@ Se o projeto usa um banco de dados, certifique-se de configurar as informações
 
 Consulte o arquivo application.properties (ou application.yml) para configurar outras propriedades da aplicação, como porta, URL da base de dados, é os ambientes.
 
+Depois de subir o projeto acesse ele pelo localhost:8080
 ```
 ## 🛠️Tecnologias Utilizadas
 1. [Java 17](https://www.java.com/pt-BR/)
